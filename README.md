@@ -1,4 +1,4 @@
-GenAI Cold Email Generator
+#GenAI Cold Email Generator
 
 This project demonstrates how Generative AI can be used to automate cold email generation for business outreach, job applications, and marketing campaigns. The application takes basic user inputs (such as target industry, recipient role, and purpose of email) and produces a professional, well-structured email draft.
 
